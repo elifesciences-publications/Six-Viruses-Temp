@@ -1,3 +1,6 @@
+This code is associated with the paper from Shocket et al., "Transmission of West Nile and five other temperate mosquito-borne viruses peaks at temperatures between 23˚C and 26˚C". eLife, 2020. http://dx.doi.org/10.7554/eLife.58511
+
+
 # Six-Viruses-Temp
 
 This repo contains all of the data, code, and methods for the article: 
